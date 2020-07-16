@@ -1,0 +1,14 @@
+alembic
+Click
+Flask
+Flask-Migrate
+Flask-SQLAlchemy
+Flask-Bootstrap
+itsdangerous
+Jinja2
+MarkupSafe
+python-dateutil
+python-editor
+six
+SQLAlchemy
+Werkzeug
